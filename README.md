@@ -2,8 +2,8 @@
 A one-file ShareX uploader. Forked from https://github.com/MrSheldon/sharex-custom-uploader.
 
 # Setup
-1. Copy `upload.php` to your webserver. It must be in the same directory as the output folder.
-2. Change the configuration (`$key` and `$dir`). `$dir` must be the output directory NAME. Make sure it's in the same directory as the `upload.php` script.
+1. Copy `upload.php` to the ROOT of your webserver.
+2. Change the configuration (`$key` and `$dir`). `$dir` must be the output directory NAME. Make sure it's in the same directory as the `upload.php` script (root).
 3. Create the custom uploader in ShareX:
 
 URL: http://your-domain.com/upload.php
