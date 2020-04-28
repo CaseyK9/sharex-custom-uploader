@@ -1,5 +1,5 @@
 # sharex-uploader
-A one-file ShareX uploader.
+A one-file ShareX uploader. Forked from https://github.com/MrSheldon/sharex-custom-uploader.
 
 # Setup
 1. Copy `upload.php` to your webserver.
