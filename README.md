@@ -12,7 +12,7 @@ Body: Form data
 | key  | your key           |
 | name | %rn%rn%rn%rn%rn%rn |
 
-FIle form name: `d`
+File form name: `d`
 
 # Custom Uploader Example
 ![Image](https://i.ibb.co/p0w0nJc/Share-X-Faku-KU2o-Zl.png)
