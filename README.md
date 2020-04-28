@@ -6,6 +6,7 @@ A one-file ShareX uploader. Forked from https://github.com/MrSheldon/sharex-cust
 2. Change the configuration (`$key` and `$dir`). `$dir` must be the output directory NAME. Make sure it's in the same directory as the `upload.php` script.
 3. Create the custom uploader in ShareX:
 
+URL: http://your-domain.com/upload.php
 Body: Form data
 
 | Name | Value              |
