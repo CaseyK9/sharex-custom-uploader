@@ -6,7 +6,7 @@ $dir = "your file directory name";
 isset($_SERVER["HTTPS"]) ? $protocol = "https" : $protocol = "http";
 if ($_SERVER["REQUEST_URI"] == "/robot.txt") die("User-Agent: *\nDisallow: /");
 
-if (!is_dir("i")) mkdir("i", 0755);
+if (!is_dir(dir)) mkdir(dir, 0755);
 
 if (isset($_POST["key"])) {
     if ($_POST["key"] == $key) {
